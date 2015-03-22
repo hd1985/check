@@ -11,7 +11,7 @@ public class CalFunction {
         int sub;
         int mul;
         int div;    
-
+//change
         System.out.println("Enter first integer: ");
         num1 = input.nextInt();
         
